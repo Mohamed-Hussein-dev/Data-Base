@@ -63,7 +63,7 @@
 1. `Weak entity`   : an entity set don't have suffcient attributes to form primary key.
 1. `parital key`   : set of attributes that can be associated with primary ke fo an owner entity set to distingush a weak entity
 
-![shapes of ERD componants](chens-notation-1.png)
+![shapes of ERD componants](https://images.edrawsoft.com/articles/er-diagram-symbols/chens-notation-1.png)
 
 ---
 
@@ -74,7 +74,7 @@
 1. `multi-valued` : The attribute which takes up more than a single value for each entity instance is a multi-valued attribute. 
 1. `complex` : Those attributes, which can be formed by the nesting of composite and multi-valued attributes.
 
-![type of attributes](https://images.edrawsoft.com/articles/er-diagram-symbols/chens-notation-1.png)
+![type of attributes](https://www.bestprog.net/wp-content/uploads/2019/01/02e-768x418.jpg)
 
 ---
 
