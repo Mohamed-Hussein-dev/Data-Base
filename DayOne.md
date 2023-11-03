@@ -5,7 +5,6 @@
 1. [File Based system](#file-based-system-)
 1. [DB Systems](#db-system-)
 1. [ERD(Entity Relationship Diagram)](#erd-)
-    * [componants](#componants-)
     * [type of Attributes](#type-of-attributes-)
     * [Relationships](#Relationships-)
 ---
