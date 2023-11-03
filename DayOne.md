@@ -74,7 +74,7 @@
 1. `multi-valued` : The attribute which takes up more than a single value for each entity instance is a multi-valued attribute. 
 1. `complex` : Those attributes, which can be formed by the nesting of composite and multi-valued attributes.
 
-![type of attributes](attributes.jpg)
+![type of attributes](https://images.edrawsoft.com/articles/er-diagram-symbols/chens-notation-1.png)
 
 ---
 
@@ -86,17 +86,17 @@ Properties of realtion:
     * `Unary`  : When there is only ONE entity set participating in a relation.
     * `Binary` : When there are TWO entities set participating in a relationship.
     * `Ternary`: When there are n entities set participating in a relation,
-    * ![Degree of Relation](degrelation.jpg)
+    * ![Degree of Relation](https://www.geocities.ws/inf381/chap10/fig10-6.jpg)
 
 1. **Cardinality**
     * `one to one`   : When each entity in each entity set can take part only once in the relationship.
     * `one to many ` : In one-to-many mapping as well where each entity can be related to more than one relationship .
     * `many to many` : When entities in all entity sets can take part more than once in the relationship.
-    * ![cardinality](GFG-214.png)
+    * ![cardinality](https://media.geeksforgeeks.org/wp-content/uploads/20200611023228/GFG-214.png)
 
 1. **Participation**:  Participation Constraints tell us that the participation in a relationship can either be total or partial. 
     * `Total`   : When each entity in an entity set participates in a relation.(all of them)
     * `Partial` : when all entities in the given entity set do not participate in a relation. (not all of them)
-    * ![paricipation](GFG-241.png)
+    * ![paricipation](https://media.geeksforgeeks.org/wp-content/uploads/20200611023911/GFG-241.png)
 
 
