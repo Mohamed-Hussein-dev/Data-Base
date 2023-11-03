@@ -9,7 +9,7 @@
     * [type of Attributes](#type-of-attributes-)
     * [Relationships](#Relationships-)
 ---
-## DB life cycle:
+## DB life cycle :
 1. **Analysis**
     * by system analyst
     * scope (req Doc)
