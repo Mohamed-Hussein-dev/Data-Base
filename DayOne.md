@@ -1,13 +1,13 @@
 # DayOne from Date-Base ITI course
 ## Table of content :
 1. [DB Life Cycle](#db-life-cycle-)
-1. [DB Design](#db-design)
-1. [File Based system](#file-based-system)
-1. [DB Systems](#db-system)
-1. [ERD(Entity Relationship Diagram)](#erd)
-    * [componants](#componants)
-    * [type of Attributes](#type-of-attributes)
-    * [Relationships](#Relationships)
+1. [DB Design](#db-design-)
+1. [File Based system](#file-based-system-)
+1. [DB Systems](#db-system-)
+1. [ERD(Entity Relationship Diagram)](#erd-)
+    * [componants](#componants-)
+    * [type of Attributes](#type-of-attributes-)
+    * [Relationships](#Relationships-)
 ---
 ## DB life cycle:
 1. **Analysis**
